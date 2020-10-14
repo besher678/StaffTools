@@ -13,5 +13,5 @@ Description: PocketMine StaffTools Plugin
 | ------------- |:-------------:|
 |    Freeze     | freeze.player |
 |    Vanish     | vanish.player |
-|   Telporter   | teleport.player|
+|   Teleporter   | teleport.player|
 |    Nick       |   nick.player  |
