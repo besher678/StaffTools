@@ -1,0 +1,10 @@
+---
+name: stafftools
+version: 0.0.1
+main: besher\stafftools\Main
+api: 3.0.0
+commands:
+  sm:
+    description: StaffMode
+    permission: sm.staffmode
+...
