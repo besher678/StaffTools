@@ -9,7 +9,7 @@ Description: PocketMine StaffTools Plugin
 
 ---
 
-| Tools        | permmisons           |
+| Tools        | permission           |
 | ------------- |:-------------:|
 |    Freeze     | freeze.player |
 |    Vanish     | vanish.player |
