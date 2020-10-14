@@ -1,2 +1,2 @@
 # StaffTools
-description: StaffTools plugin for PocketMine-MP
+Description: StaffTools plugin for PocketMine-MP
