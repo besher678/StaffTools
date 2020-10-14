@@ -1,6 +1,7 @@
 # StaffTools
 PocketMine StaffTools Plugin 
-(https://www.besher.eu)
+
+https://www.besher.eu
 ---
 
 /sm to Enable Staffmode
